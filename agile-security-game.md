@@ -283,9 +283,9 @@ Using **12** points, pick the stories that will be completed this sprint.
 
 *Mafia Team – Gain access to office, get passwords from server logs, small theft from tens of thousands of accounts.*
 
--Prevent Access to Office (PA): Physical security of servers is just as critical as virtual!
--Filtered Logging for Server (FL): Ensuring that logs do not contain sensitive or protected data helps prevent data leakage.
--Two Factor Authentication (2F): Establishing two-factor identification protects user credentials and defends against unauthorized logins.
+- Prevent Access to Office (PA): Physical security of servers is just as critical as virtual!
+- Filtered Logging for Server (FL): Ensuring that logs do not contain sensitive or protected data helps prevent data leakage.
+- Two Factor Authentication (2F): Establishing two-factor identification protects user credentials and defends against unauthorized logins.
 
 *Mafia Advanced Programming Team – gain access to server though zero day exploit, installed hacked version, modifies mood data.*
 
