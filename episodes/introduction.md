@@ -18,7 +18,7 @@ exercises: 0
 
 ## Purpose
 
-![](fig/security-concern.PNG){alt='UI of Moneyzoom' style="float:right; width:300px;height:auto"}
+![](fig/security-concern.png){alt='UI of Moneyzoom' style="float:right; width:300px;height:auto"}
 
 
 In a world where software is essential for nearly every aspect of modern life, the need for secure development have never been greater.
